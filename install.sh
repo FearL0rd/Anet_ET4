@@ -62,13 +62,13 @@ echo " @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 echo " @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ "
 
 # Variables
-REPO_URL="https://github.com/KarlAvec1K/Anet_ET4.git"
+REPO_URL="https://github.com/FearL0rd/Anet_ET4.git"
 REPO_BRANCH="main"
-DESTINATION_FOLDER="/home/pi/printer_data/config"
+DESTINATION_FOLDER="/home/mainsail/printer_data/config"
 KLIPPER_CONFIGS_FOLDER="$DESTINATION_FOLDER/klipper-configs"
 KLIPPER_MACROS_FOLDER="$DESTINATION_FOLDER/klipper-macros"
 OPTIONAL_MACROS_FOLDER="$KLIPPER_MACROS_FOLDER/optional"
-LOCAL_REPO_FOLDER="/home/pi/Anet_ET4"
+LOCAL_REPO_FOLDER="/home/mainsail/Anet_ET4"
 LOCAL_REPO_CONFIG_FOLDER="$LOCAL_REPO_FOLDER/Anet_ET4_Config_files"
 KLIPPER_MACROS_REPO_URL="https://github.com/KarlAvec1K/klipper-macros.git"
 KLIPPER_MACROS_REPO_BRANCH="main"
